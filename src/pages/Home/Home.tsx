@@ -27,6 +27,7 @@ const Home: React.FC<HomeProps> = ({}) => {
   }, [text]);
 
   const tick = () => {
+    console.log(index);
     let i = loopNum % toRotate.length;
     let fullText = toRotate[i];
     let updatedText = isDeleting
