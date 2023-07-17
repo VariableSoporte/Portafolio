@@ -11,7 +11,7 @@ Este es mi portafolio personal, donde muestro mis habilidades y proyectos en dis
 
 Si estás interesado en trabajar conmigo o quieres conocer más sobre mis proyectos, no dudes en contactarme:
 
-- Email: tuemail@example.com
+- Email: luis_zerna@hotmail.com
 - LinkedIn: [linkedin.com/luis-zerna-ramos](https://www.linkedin.com/in/luis-zerna-ramos)
 - GitHub: [github.com/VariableSoporte](https://github.com/VariableSoporte)
 
